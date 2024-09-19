@@ -1,0 +1,21 @@
+Top 20 keywords:
+project: 486
+system: 340
+train: 336
+alstom: 296
+mobility: 252
+management: 232
+experience: 211
+engineering: 194
+customer: 192
+service: 182
+manager: 175
+challenge: 173
+opportunity: 173
+safety: 161
+people: 160
+lead: 153
+design: 146
+network: 144
+business: 138
+process: 136
