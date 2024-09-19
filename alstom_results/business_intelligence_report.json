@@ -1,0 +1,1013 @@
+{
+  "Trend Analysis": {},
+  "Skill Clusters": {
+    "Cluster 4": [
+      "di",
+      "supplier",
+      "mobility",
+      "join",
+      "project",
+      "commodity",
+      "traction",
+      "people",
+      "work",
+      "diligence"
+    ],
+    "Cluster 2": [
+      "train",
+      "new",
+      "supply",
+      "experience",
+      "mobility",
+      "career",
+      "work",
+      "team",
+      "business",
+      "project"
+    ],
+    "Cluster 3": [
+      "test",
+      "safety",
+      "system",
+      "train",
+      "project",
+      "testing",
+      "experience",
+      "verification",
+      "work",
+      "network"
+    ],
+    "Cluster 0": [
+      "de",
+      "et",
+      "la",
+      "des",
+      "les",
+      "en",
+      "le",
+      "du",
+      "vous",
+      "une"
+    ],
+    "Cluster 1": [
+      "project",
+      "und",
+      "management",
+      "die",
+      "der",
+      "schedule",
+      "change",
+      "manager",
+      "supply",
+      "logistic"
+    ]
+  },
+  "Company Strategies": {
+    "Alstom": [
+      [
+        "de",
+        824
+      ],
+      [
+        "et",
+        549
+      ],
+      [
+        "project",
+        488
+      ],
+      [
+        "la",
+        377
+      ],
+      [
+        "des",
+        372
+      ],
+      [
+        "system",
+        339
+      ],
+      [
+        "train",
+        337
+      ],
+      [
+        "alstom",
+        296
+      ],
+      [
+        "mobility",
+        252
+      ],
+      [
+        "les",
+        252
+      ]
+    ]
+  },
+  "Geographical Analysis": {
+    "Bangalore, KA, IN": {
+      "job_count": 6,
+      "top_roles": [
+        [
+          "Independent Product Safety Engineer",
+          1
+        ],
+        [
+          "Dev CCM Manager",
+          1
+        ],
+        [
+          "Traction Design Leader",
+          1
+        ],
+        [
+          "SAP Sales Functional Expert 1",
+          1
+        ],
+        [
+          "Mechanical Lead Engineer - Interior Integration",
+          1
+        ]
+      ]
+    },
+    "Cluj-Napoca, RO": {
+      "job_count": 3,
+      "top_roles": [
+        [
+          "VIE Buyer (fluent in German & English)",
+          1
+        ],
+        [
+          "VIE Buyer (fluent in French & English)",
+          1
+        ],
+        [
+          "Material Planner with German",
+          1
+        ]
+      ]
+    },
+    "Barcelona, B, ES": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Site Facilities Engineer",
+          1
+        ]
+      ]
+    },
+    "Astana, AST, KZ": {
+      "job_count": 3,
+      "top_roles": [
+        [
+          "Operational Support Manager",
+          1
+        ],
+        [
+          "Material Planning Manager",
+          1
+        ],
+        [
+          "Material Planner",
+          1
+        ]
+      ]
+    },
+    "Motala, E, SE": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Mechanical Design Engineer",
+          1
+        ]
+      ]
+    },
+    "Haessleholm, SE": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Safety Assurance Engineer",
+          1
+        ]
+      ]
+    },
+    "Villeurbanne, 69, FR": {
+      "job_count": 3,
+      "top_roles": [
+        [
+          "Software Architect - On Board Signalling product (H/F) 1",
+          1
+        ],
+        [
+          "Software Architect - On Board Signalling Product (M/F)",
+          1
+        ],
+        [
+          "Acheteur Cat\u00e9gorie Exp\u00e9riment\u00e9 (F/H)",
+          1
+        ]
+      ]
+    },
+    "Chorzow, SL, PL": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Product Cost Engineer",
+          1
+        ]
+      ]
+    },
+    "Valenciennes, 59, FR": {
+      "job_count": 2,
+      "top_roles": [
+        [
+          "Ing\u00e9nieur Ergonome (H/F)",
+          1
+        ],
+        [
+          "Ergonomics engineer (H/F)",
+          1
+        ]
+      ]
+    },
+    "Melbourne (AU), VIC, AU": {
+      "job_count": 2,
+      "top_roles": [
+        [
+          "Train Manager (TrM)",
+          1
+        ],
+        [
+          "Train Manager (TrM) 1",
+          1
+        ]
+      ]
+    },
+    "Firenze, IT": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Maintenance Worker - Firenze",
+          1
+        ]
+      ]
+    },
+    "Chorzow, PL": {
+      "job_count": 2,
+      "top_roles": [
+        [
+          "Jigs and Tools Engineer",
+          1
+        ],
+        [
+          "Site Facilities Engineer",
+          1
+        ]
+      ]
+    },
+    "Cairo, EG": {
+      "job_count": 5,
+      "top_roles": [
+        [
+          "Deputy SCADA & AFC Installation Manager",
+          1
+        ],
+        [
+          "Material Controller",
+          1
+        ],
+        [
+          "Warehouse Manager",
+          1
+        ],
+        [
+          "Contract Manager",
+          1
+        ],
+        [
+          "Electrical Operation Engineer",
+          1
+        ]
+      ]
+    },
+    "Long Island City, NY, US": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "System Engineer",
+          1
+        ]
+      ]
+    },
+    "London, UKM, GB": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Licensed Verification Tester",
+          1
+        ]
+      ]
+    },
+    "Jeddah, SA": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Contract Specialist",
+          1
+        ]
+      ]
+    },
+    "Toronto, ON, CA": {
+      "job_count": 5,
+      "top_roles": [
+        [
+          "Systems Engineer",
+          1
+        ],
+        [
+          "Signalling Test & Commissioning Tester",
+          1
+        ],
+        [
+          "Network & Telecom - Radio Engineer",
+          1
+        ],
+        [
+          "Network & Telecom - Network Engineer",
+          1
+        ],
+        [
+          "N&T Radio System Design Leader - Go Expansion",
+          1
+        ]
+      ]
+    },
+    "Bursa, TR": {
+      "job_count": 3,
+      "top_roles": [
+        [
+          "Site Facility & General Services Manager - Bursa",
+          1
+        ],
+        [
+          "Welding Production Support Engineer",
+          1
+        ],
+        [
+          "Special Process Manager",
+          1
+        ]
+      ]
+    },
+    "Jamaica, NY, US": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "IT/Electronics Specialist.",
+          1
+        ]
+      ]
+    },
+    "Le Creusot, 71, FR": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Ing\u00e9nieur Etudes de Maintenance (F/H)",
+          1
+        ]
+      ]
+    },
+    "West Mifflin, PA, US": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Electrical Technician",
+          1
+        ]
+      ]
+    },
+    "Kassel, DE": {
+      "job_count": 2,
+      "top_roles": [
+        [
+          "Project Supply Chain Leader (f/m/d)",
+          1
+        ],
+        [
+          "Projektleiter Supply Chain (w/m/d)",
+          1
+        ]
+      ]
+    },
+    "Bangalore, IN": {
+      "job_count": 4,
+      "top_roles": [
+        [
+          "Traction System Engineer",
+          2
+        ],
+        [
+          "Project Engineering Manager",
+          1
+        ],
+        [
+          "Project Manager",
+          1
+        ]
+      ]
+    },
+    "Pittsburgh, PA, US": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "ITC Senior Engineer",
+          1
+        ]
+      ]
+    },
+    "Hong Kong, HK, HK": {
+      "job_count": 3,
+      "top_roles": [
+        [
+          "T&C Technician",
+          1
+        ],
+        [
+          "Installation Supervisor",
+          1
+        ],
+        [
+          "Senior Installation Engineer",
+          1
+        ]
+      ]
+    },
+    "Katowice, PL": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Project Installation Manager (PrYM)",
+          1
+        ]
+      ]
+    },
+    "Montreal, QC, CA": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Coordinateur Qualit\u00e9 SLV",
+          1
+        ]
+      ]
+    },
+    "Bucharest, B, RO": {
+      "job_count": 5,
+      "top_roles": [
+        [
+          "ERTMS Verification & Validation Engineer",
+          4
+        ],
+        [
+          "HW Indoor Outdoor Design Engineer",
+          1
+        ]
+      ]
+    },
+    "Belfort, FR": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Stagiaire Industriel",
+          1
+        ]
+      ]
+    },
+    "Crespin, FR": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Ing\u00e9nieur Ergonome F/H",
+          1
+        ]
+      ]
+    },
+    "Saint-Ouen, J, FR": {
+      "job_count": 2,
+      "top_roles": [
+        [
+          "Responsable SAV (F/H)",
+          1
+        ],
+        [
+          "Projeteur.euse confirm\u00e9.e Etudes d'Ex\u00e9cution Signalisation (H/F)",
+          1
+        ]
+      ]
+    },
+    "Aix En Provence, 13, FR": {
+      "job_count": 2,
+      "top_roles": [
+        [
+          "Ing\u00e9nieur v\u00e9rification et validation (F/H)",
+          1
+        ],
+        [
+          "Ing\u00e9nieur v\u00e9rification et validation (F/M)",
+          1
+        ]
+      ]
+    },
+    "Bangkok, TH": {
+      "job_count": 6,
+      "top_roles": [
+        [
+          "Program Manager",
+          1
+        ],
+        [
+          "System Engineering Manager",
+          1
+        ],
+        [
+          "Cybersecurity Engineer",
+          1
+        ],
+        [
+          "APAC Communications Manager",
+          1
+        ],
+        [
+          "Project Cyber Security Manager",
+          1
+        ]
+      ]
+    },
+    "Braunschweig, NI, DE": {
+      "job_count": 3,
+      "top_roles": [
+        [
+          "Projekleiter Bau  (m/w/d)",
+          1
+        ],
+        [
+          "Project Material Manager (w/d/m)",
+          1
+        ],
+        [
+          "Trainee IXL EL500",
+          1
+        ]
+      ]
+    },
+    "Nigel, GT, ZA": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Project Contract Manager (PrCM) TSSSA",
+          1
+        ]
+      ]
+    },
+    "Hong Kong, HK": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Senior Safety Assurance Engineer - Project",
+          1
+        ]
+      ]
+    },
+    "Roma, RM, IT": {
+      "job_count": 2,
+      "top_roles": [
+        [
+          "Design Engineer Internship (2)",
+          1
+        ],
+        [
+          "Progettista Linea di contatto/Trazione elettrica (Catenaria, OCS)",
+          1
+        ]
+      ]
+    },
+    "Stockholm, SE": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Senior System Developer",
+          1
+        ]
+      ]
+    },
+    "Utrecht, NL": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Maintenance Engineer Betuweroute West",
+          1
+        ]
+      ]
+    },
+    "Saint-Ouen, FR": {
+      "job_count": 2,
+      "top_roles": [
+        [
+          "Ethics & Compliance Manager - Third Party Evaluation & Process",
+          2
+        ]
+      ]
+    },
+    "Bangkok, 10, TH": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "VATC Work Package Lead",
+          1
+        ]
+      ]
+    },
+    "Derby, GB": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Safety Assurance Engineer",
+          1
+        ]
+      ]
+    },
+    "La Pocatiere, QC, CA": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Gestionnaire de planification industrielle",
+          1
+        ]
+      ]
+    },
+    "Cluj-Napoca, CJ, RO": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "VIE - Junior Buyer with Italian and English",
+          1
+        ]
+      ]
+    },
+    "Mannheim, BW, DE": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Service Techniker (w/d/m)",
+          1
+        ]
+      ]
+    },
+    "Baltimore, MD, US": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Carman",
+          1
+        ]
+      ]
+    },
+    "Derby, DBY, GB": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Electrical Systems Engineer Derby",
+          1
+        ]
+      ]
+    },
+    "Bologna, BO, IT": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Safety Assessor",
+          1
+        ]
+      ]
+    },
+    "Rouen, FR": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Responsable chaine d'approvisionnement projet H/F",
+          1
+        ]
+      ]
+    },
+    "Tarbes, N, FR": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Responsable groupe M\u00e9thodes Industrialisation FST",
+          1
+        ]
+      ]
+    },
+    "Savigliano, CN, IT": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Train Manager",
+          1
+        ]
+      ]
+    },
+    "Barcelona, ES": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Maintenance Engineering Manager",
+          1
+        ]
+      ]
+    },
+    "Le Creusot, FR": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Alternant Projet Sourcing Manager (H/F)",
+          1
+        ]
+      ]
+    },
+    "Santo Domingo, DO": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Logistic Manager",
+          1
+        ]
+      ]
+    },
+    "Vadodara, IN": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Project T&C Manager",
+          1
+        ]
+      ]
+    },
+    "Ornans, I, FR": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Responsable d\u00e9partement projet / SSM Leader - F/H",
+          1
+        ]
+      ]
+    },
+    "Lilyfield, NSW, AU": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Maintenance Technician - Fitter",
+          1
+        ]
+      ]
+    },
+    "Dunnottar, GT, ZA": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "FITTING ARTISAN",
+          1
+        ]
+      ]
+    },
+    "Hamburg, HH, DE": {
+      "job_count": 2,
+      "top_roles": [
+        [
+          "VIE Planning Support (m/f/d) 1",
+          1
+        ],
+        [
+          "V.I.E Support Plannification 1",
+          1
+        ]
+      ]
+    },
+    "New Delhi, IN": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "PI Field Engineering Support",
+          1
+        ]
+      ]
+    },
+    "Vasteras, SE": {
+      "job_count": 2,
+      "top_roles": [
+        [
+          "Hardware Team Lead",
+          1
+        ],
+        [
+          "Mechanical CAD Designer",
+          1
+        ]
+      ]
+    },
+    "Nieuwegein, UT, NL": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Industrial planner / repairs scheduler 1",
+          1
+        ]
+      ]
+    },
+    "Dandenong, VIC, AU": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Industrial Quality Engineer",
+          1
+        ]
+      ]
+    },
+    "Valenciennes, O, FR": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Project Planning Manager (H/F)",
+          1
+        ]
+      ]
+    },
+    "Lille, 59, FR": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Ing\u00e9nieur Test & Commissioning (T&C) - Lille (H/F)",
+          1
+        ]
+      ]
+    },
+    "Barcelona, CT, ES": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Manufacturing Engineer (Welding)",
+          1
+        ]
+      ]
+    },
+    "Singapore, SG": {
+      "job_count": 2,
+      "top_roles": [
+        [
+          "Project Manager CCL RS LTSS",
+          1
+        ],
+        [
+          "Project Manager BPLRT TSSSA",
+          1
+        ]
+      ]
+    },
+    "Naperville, IL, US": {
+      "job_count": 1,
+      "top_roles": [
+        [
+          "Material Expeditor",
+          1
+        ]
+      ]
+    }
+  },
+  "Competitor Analysis": {
+    "Alstom": [
+      [
+        "de",
+        824
+      ],
+      [
+        "et",
+        549
+      ],
+      [
+        "project",
+        488
+      ],
+      [
+        "la",
+        377
+      ],
+      [
+        "des",
+        372
+      ],
+      [
+        "system",
+        339
+      ],
+      [
+        "train",
+        337
+      ],
+      [
+        "alstom",
+        296
+      ],
+      [
+        "mobility",
+        252
+      ],
+      [
+        "les",
+        252
+      ]
+    ]
+  },
+  "Industry Shifts": [
+    [
+      "req",
+      69
+    ],
+    [
+      "worldwide",
+      68
+    ],
+    [
+      "city",
+      68
+    ],
+    [
+      "reduce",
+      66
+    ],
+    [
+      "turnkey",
+      66
+    ],
+    [
+      "replace",
+      65
+    ],
+    [
+      "hear",
+      65
+    ],
+    [
+      "broad",
+      65
+    ],
+    [
+      "connect",
+      65
+    ],
+    [
+      "diversity",
+      64
+    ],
+    [
+      "colleague",
+      64
+    ],
+    [
+      "family",
+      63
+    ],
+    [
+      "proud",
+      63
+    ],
+    [
+      "enthusiast",
+      63
+    ],
+    [
+      "love",
+      63
+    ],
+    [
+      "friend",
+      63
+    ],
+    [
+      "greener",
+      63
+    ],
+    [
+      "thrive",
+      63
+    ],
+    [
+      "step",
+      63
+    ],
+    [
+      "guarantee",
+      63
+    ]
+  ]
+}
