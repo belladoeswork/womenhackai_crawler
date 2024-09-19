@@ -126,7 +126,7 @@ def detect_language(text):
 
 def process_text(text):
     lang = detect_language(text)
-    nlp = nlp_models.get(lang, nlp_models['en'])  # Default to English
+    nlp = nlp_models.get(lang, nlp_models['en'])  # tokenization, then to English
     doc = nlp(text)
     return [token.lemma_.lower() for token in doc if not token.is_stop and not token.is_punct and token.is_alpha and len(token) > 2 and token.lemma_.lower() not in common_words]
 
@@ -148,6 +148,8 @@ def visualize_keywords(keywords, output_dir):
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.savefig(os.path.join(output_dir, 'keyword_frequency.png'))
+    plt.savefig(output_dir)
+    print(f"Saved plot to {output_dir}")
     plt.close()
 
 def main(json_file_path, output_dir):
@@ -173,7 +175,7 @@ def main(json_file_path, output_dir):
     # Visualize keywords
     visualize_keywords(keywords, output_dir)
     
-    # Additional NLP tasks
+    # ent recogn
     with open(os.path.join(output_dir, 'named_entities.txt'), 'w', encoding='utf-8') as f:
         for job in data:  
             lang = detect_language(job['description'])
