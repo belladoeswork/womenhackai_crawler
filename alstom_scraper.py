@@ -5,6 +5,7 @@ from datetime import datetime
 import time
 import json
 
+
 class AlstomScraper(BaseScraper):
     def __init__(self):
         super().__init__('https://jobsearch.alstom.com/search/')
