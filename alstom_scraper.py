@@ -11,7 +11,8 @@ class AlstomScraper(BaseScraper):
         self.keywords = ['rail', 'signal', 'engineer', 'ETCS', 'ERTMS', 'CBTC']  
 
     def scrape_jobs(self):
-        for page in range(1, 6):  
+        
+        for page in range(1, 6):  # can change pages
             url = f"{self.base_url}?startrow={25 * (page - 1)}"
             soup = self.get_soup(url)
             job_listings = soup.find_all('tr', class_='data-row')
@@ -22,7 +23,7 @@ class AlstomScraper(BaseScraper):
             for job in job_listings:
                 title_elem = job.find('a', class_='jobTitle-link')
                 title = self.extract_text(title_elem)
-                job_url = 'https://jobsearch.alstom.com' + title_elem['href']
+                job_url = 'https://jobsearch.alstom.com' + title_elem['href'] # this can change is the website changes
                 location = self.extract_text(job.find('span', class_='jobLocation'))
                 function = self.extract_text(job.find('span', class_='jobDepartment'))
                 experience = self.extract_text(job.find('span', class_='jobShift'))
@@ -47,7 +48,7 @@ class AlstomScraper(BaseScraper):
                     })
 
             print(f"Scraped page {page}")
-            time.sleep(2)  
+            time.sleep(2)  #important to avoid being blocked
 
         if self.jobs:
             self.save_jobs()
