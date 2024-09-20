@@ -1,3 +1,0 @@
-table with stop Words
-
-score for cat. Words
